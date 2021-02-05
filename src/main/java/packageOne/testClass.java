@@ -2,8 +2,8 @@ package packageOne;
 
 public class testClass {
     public static void main(String[] args){
-        initArray(17);
-        initDimensionalArray(12,5);
+        initArray(5);
+        initDimensionalArray(5,5);
 
     }
 
